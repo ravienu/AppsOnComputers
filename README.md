@@ -4,6 +4,7 @@ mvn clean compile assembly:single  --> a executable jar file will be generated w
 
 Run Jar file:
 java -jar -Xmx512m AppsToInstall-1.0.jar <Path_To_CSV_File>
+
 Examples-
 java -jar -Xmx512m AppsToInstall-1.0.jar “…/sample-small.csv” 
 java -jar -Xmx5120m AppsToInstall-1.0.jar “…/sample-large.csv” 

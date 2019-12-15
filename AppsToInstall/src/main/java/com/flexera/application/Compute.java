@@ -3,7 +3,7 @@ package com.flexera.application;
 import com.flexera.model.User;
 
 import java.util.Map;
-
+//Master changes
 /**
  * This class computes the total number of applications required to install
  */

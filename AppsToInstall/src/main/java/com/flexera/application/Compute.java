@@ -69,6 +69,6 @@ public class Compute {
 
         return  totalApps;
     }
-} //Test comment
+} //Test comment  //Test comment 2
 
 //End of file
